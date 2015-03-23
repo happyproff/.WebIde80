@@ -1,0 +1,104 @@
+<keymap version="1" name="happyproff_common" parent="$default">
+  <action id="ActivateChangesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFileTransferToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="ActivateHierarchyToolWindow" />
+  <action id="ActivateMessagesToolWindow" />
+  <action id="ActivateRemoteHostToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="ChangeSplitOrientation">
+    <keyboard-shortcut first-keystroke="shift control BACK_SLASH" />
+  </action>
+  <action id="Diff.FocusOppositePane">
+    <keyboard-shortcut first-keystroke="alt BACK_SLASH" />
+  </action>
+  <action id="EditorToggleShowWhitespaces">
+    <keyboard-shortcut first-keystroke="control alt W" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="alt ADD" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="alt SUBTRACT" />
+  </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="Jdbc.OpenConsole">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="JumpToLastWindow" />
+  <action id="MethodHierarchy" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift control G" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt BACK_SLASH" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift control T" />
+  </action>
+  <action id="RestoreDefaultLayout" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="control BACK_SLASH" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="F12" />
+  </action>
+  <action id="Tool_External Tools_Php-cs-fixer">
+    <keyboard-shortcut first-keystroke="shift control alt L" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift control alt BACK_SLASH" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt QUOTE" />
+  </action>
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="shift control H" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="control H" />
+  </action>
+  <action id="WebDeployment.Configuration">
+    <keyboard-shortcut first-keystroke="control alt D" />
+  </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+</keymap>
